@@ -9,7 +9,8 @@
     <img width = "35" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png">
     <img width = "35" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png">
     <br><br>
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=GizmoTjaz&layout=compact&theme=tokyonight">
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=GizmoTjaz&layout=compact&theme=radical&show_icons=true">
+    <img src = "https://github-readme-stats.vercel.app/api/wakatime?username=tjaz&theme=radical&show_icons=true">
     <br>
-    <img src = "https://komarev.com/ghpvc/?username=GizmoTjaz&color=blueviolet">
+    <img src = "https://komarev.com/ghpvc/?username=GizmoTjaz&color=radical">
 </div>
