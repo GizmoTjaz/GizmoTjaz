@@ -8,6 +8,7 @@
     <img width = "35" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
     <img width = "35" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png">
     <img width = "35" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png">
+    <img width = "35" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
     <br><br>
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=GizmoTjaz&layout=compact&theme=radical&show_icons=true">
     <br>
