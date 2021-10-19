@@ -12,7 +12,5 @@
     <br><br>
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=GizmoTjaz&layout=compact&theme=radical&show_icons=true">
     <br>
-    <img src = "https://github-readme-stats.vercel.app/api/wakatime?username=tjaz&theme=radical&show_icons=true">
-    <br>
     <img src = "https://komarev.com/ghpvc/?username=GizmoTjaz&color=blueviolet">
 </div>
